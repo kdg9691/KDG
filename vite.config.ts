@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react-swc'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/kdg/',   // ✅ IMPORTANT for GitHub Pages
+  base: '/kdg/',   //
 })
